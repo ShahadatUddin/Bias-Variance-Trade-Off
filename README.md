@@ -4,6 +4,7 @@ This repository provides code, data, and scripts for the study on "k-fold cross-
 **Dataset**
 - 12 datasets from multiple open-access sources were evaluated
 - 4xLarge; 4xMedium; and 4xSmall Datasets
+- The "data" folder contains the bias and variance values for different k values across four ML models (three files)
 
 **Models Used**
 - Decision Tree
