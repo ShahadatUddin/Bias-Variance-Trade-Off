@@ -11,7 +11,7 @@ This repository provides code, data, and scripts for the study on "k-fold cross-
 - Remove Duplicate Records: Removed rows with partial overlaps in key features that could bias training.
 - Handle Blank Entries and NaN Values: (a) Imputed missing numerical values using median imputation; and (b) Removed rows where missingness exceeded 20% of attributes.
 - Convert Categorical Variables: Applied RIDIT scoring to transform non-integer categorical attributes into numeric values.
-- Normalize Features: Scaled all features to a range of [0, 1] to prevent disproportionate influence of any feature.
+- Normalise Features: Scaled all features to a range of [0, 1] to prevent disproportionate influence of any feature.
 
 **Models Used**
 - Decision Tree
