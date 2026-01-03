@@ -15,10 +15,11 @@ This repository provides code, data, and scripts for the study on "k-fold cross-
 
 **Models Used**
 - Decision Tree
-- k-Nearest Neighbors
+- k-Nearest Neighbours
 - Logistic Regression
 - Support Vector Machine
 
-**File Descriptor:**
-- main.py: Python script for implementing different ML models and calculating their bias and variance.
-- bias_and_variance_plot.ipynb: a unified design for different figures
+**Folder and File Descriptor:**
+- Code: Python script for data preprocessing and implementing different ML models to quantify their bias and variance. We used the raw dataset from the online sources in these code files.
+- Data: Contains files for bias and variance outcomes for different datasets
+- bias_and_variance_plot.ipynb: a unified design for Figures 3-8
