@@ -21,5 +21,5 @@ This repository provides code, data, and scripts for the study on "k-fold cross-
 
 **Folder and File Descriptor:**
 - Code: Python script for data preprocessing and implementing different ML models to quantify their bias and variance. We used the raw dataset from the online sources in these code files.
-- Data: Contains files for bias and variance outcomes for different datasets
-- bias_and_variance_plot.ipynb: a unified design for Figures 3-8
+- Data: Contains files for bias and variance outcomes for different datasets.
+- bias_and_variance_plot.ipynb: a unified design for Figures 3-8 of the main manuscript.
